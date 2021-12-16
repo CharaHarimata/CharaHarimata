@@ -1,6 +1,8 @@
 # About
 
-<img src="./aromantic-16x16.png" width="128" height="128"></img><img src="./asexual-16x16.png" width="128" height="128"></img><img src="./nonbinary-16x16.png" width="128" height="128"></img>
+![Aromantic Flag](/aromantic-16x16.png)
+![Asexual Flag](/asexual-16x16.png)
+![Nonbinary Flag](/nonbinary-16x16.png)
 
 * J(That's me!) is an aspiring design engineer.
 * 18 yr-old
