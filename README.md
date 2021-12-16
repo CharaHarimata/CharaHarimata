@@ -10,4 +10,7 @@
 * Will hyperfixate on Transformers faster than you can say 'Tarn.'
 # Quick Links
 * [Tumblr](https://www.nightstrikethereaper.tumblr.com)
-
+* [Youtube]()
+* [Facebook](https://www.facebook.com/TerminusIndustries)
+* [Twitter](https://www.twitter.com/terminus_ind)
+* [Instagram](https://www.instagram.com/terminus-industries)
