@@ -5,7 +5,7 @@
 ![Nonbinary Flag](/nonbinary-16x16.png)
 
 * J(That's me!) is an aspiring design engineer.
-* 19 yr-old
+* 20 yr-old
 * They/Them
 * Will hyperfixate on Transformers faster than you can say 'Tarn.'
 # Quick Links
