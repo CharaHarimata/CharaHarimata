@@ -1,6 +1,6 @@
 # About
 
-![Picrew PFP by cbrfufu](/picrew.png)
+<img src="picrew.png" width="10%"></img>
 
 ![Aromantic Flag](/aromantic-16x16.png)
 ![Asexual Flag](/asexual-16x16.png)
