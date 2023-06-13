@@ -1,5 +1,7 @@
 # About
 
+![Picrew PFP by cbrfufu](/picrew.png)
+
 ![Aromantic Flag](/aromantic-16x16.png)
 ![Asexual Flag](/asexual-16x16.png)
 ![Nonbinary Flag](/nonbinary-16x16.png)
