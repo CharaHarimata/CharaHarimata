@@ -4,7 +4,7 @@
 
 
 * J(That's me!) is an aspiring design engineer.
-* 20 yr-old
+* 21 yr-old
 * Will hyperfixate on Transformers faster than you can say 'Tarn.'
 # Quick Links
 * [Website](https://nightstrike.wixsite.com/terminus-industries)
